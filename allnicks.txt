@@ -49,7 +49,7 @@
 1,asie|tab,asie|tab_
 1,atomsponge,atomsponge_
 1,atyp,atyp_
-1,away_21,[away],away
+1,wuerfel_21,wuerfel21,wuerfel_2,away_21,[away],away
 1,awesomedesktopcube,awesomedesktopcube_
 1,azazel,azazel_
 1,azelk,azelk_
@@ -616,7 +616,6 @@
 1,wobbo,_wobbo,wobbo_
 1,wolf480pl,wolf480pl_
 1,wolfmitchell,wolfmitchell_
-1,wuerfel_21,wuerfel21,wuerfel_2
 1,xakorik,xakorik_,xakorik__
 1,xal,xal_
 1,xandaros,xandaros1
