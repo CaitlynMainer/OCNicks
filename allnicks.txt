@@ -391,7 +391,7 @@
 1,meto,meto_
 1,mettaton_fab,mettaton_fab1,mettaton_fab_
 1,mfran2016_,mfran,mfran2016
-1,mgr,mgr2,mgr}|,majorgeneralrelativity,majgenrelativity,majgenrelativity_,majgenrelativity__,majgenr,majgenrelativity|tired,majorgeneralrelativity
+5,mgr,mgr2,mgr}|,majorgeneralrelativity,majgenrelativity,majgenrelativity_,majgenrelativity__,majgenr,majgenrelativity|tired,majorgeneralrelativity
 1,micheel6,micheel6_
 3,michibot,michibot1,michibot2
 6,michiyo,caitlyn,caitlyn-,caitlyn1,caitlyn12_test,caitlyn1_test,caitlyn2,caitlyn_,caitlyn_off,caitlyn_test,caitlyn|off,caitlyn|off|off,katie,katie2,katie_,katiebot,katiekat,katie|off,michi,michi_,michi__,michi_oc,michibot-old,michibot|nou,michiyo-,michiyo[ig],michiyo[mc],michiyo[off],michiyo[sleep],michiyo_,michiyo__,michiyog,michiyohasareallylongname,michiyoooooooooooo,michiyo|,michiyo|afk,michiyo|away,michiyo|cc,michiyo|ig,michiyo|mobile,michiyo|off,michiyo|phone,michiyo|tab,michiyo|test,michiyo|web,michi|ig,mimiru,mimiru_,mimiru|away,mimiru|off,spookmiru,|michiyo|
