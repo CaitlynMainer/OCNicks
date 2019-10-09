@@ -686,7 +686,7 @@
 5,techokami,techokami-ingame,techokami_,techokami|ingame
 1,techokami|oc,techokami-oc
 1,tedster,tedster_,tedster__
-6,temia,temia`
+6,elfi,temia,temia`
 1,temporary_13498,temporary_2378837,temporary_2847
 1,terminal3,terminal1
 1,test,test1,test1111,test123,test432,test4456,test54321,test_,test__
