@@ -37,7 +37,7 @@
 1,alteniusschool,altenius[school],altenius|school
 1,altenius|away,altenius[away],altenius_away
 1,amadornes,amadornes_
-6,amandac,amandac_
+6,amanda,amandac,amandac_
 1,anastarawneh,anastarawneh2
 1,andchat1337,andchat,andchat-66969,andchat667764,andchat|140627,andchat|163449,andchat|464025,andchat|578100,andchat|598241,andchat|652500,andchat|93396
 1,andior,andior_
