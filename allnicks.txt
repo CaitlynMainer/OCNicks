@@ -179,7 +179,6 @@
 1,deejayh,deejayh_,deejayh__
 1,deejayh-l,deejayh-l_
 1,degariless,degariless_
-1,dequbed,dequbed_
 1,devil_21,devil
 1,dfo,dfo13
 1,dieselfuelonly,dieselfuelonly2
@@ -381,7 +380,7 @@
 1,kimiro,kimiro2
 1,kinkysub32,kinkysub32_
 1,kirito_,kirito
-6,kittykath,deanisakitty
+6,kittykath,deanisakitty,dequbed,dequbed_
 1,kjack1111,kjack2222
 5,kodos,kodos_
 1,kofteistkofte,kofteist_kofte
